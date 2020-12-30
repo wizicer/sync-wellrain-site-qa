@@ -133,10 +133,6 @@
   </url>
   
   <url>
-    <loc>/product/rio-furniture-2/</loc>
-  </url>
-  
-  <url>
     <loc>/product/rio-furniture-3/</loc>
   </url>
   
@@ -170,6 +166,10 @@
   
   <url>
     <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/product/rio-furniture-2/</loc>
   </url>
   
 </urlset>
