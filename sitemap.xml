@@ -94,11 +94,6 @@
   </url>
   
   <url>
-    <loc>/news/blog-post-2/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/news/blog-post-3/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url>
@@ -136,6 +131,11 @@
   <url>
     <loc>/tags/retro/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/blog-post-2/</loc>
+    <lastmod>2018-08-02T11:07:10+06:00</lastmod>
   </url>
   
   <url>
