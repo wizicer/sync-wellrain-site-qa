@@ -13,11 +13,11 @@
     
     
     <item>
-      <title>Company News</title>
-      <link>/categories/company-news/</link>
+      <title>公司新闻</title>
+      <link>/categories/%E5%85%AC%E5%8F%B8%E6%96%B0%E9%97%BB/</link>
       <pubDate>Tue, 29 Sep 2020 11:07:10 +0600</pubDate>
       
-      <guid>/categories/company-news/</guid>
+      <guid>/categories/%E5%85%AC%E5%8F%B8%E6%96%B0%E9%97%BB/</guid>
       <description></description>
     </item>
     
@@ -27,6 +27,15 @@
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
       <guid>/categories/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Company News</title>
+      <link>/categories/company-news/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>/categories/company-news/</guid>
       <description></description>
     </item>
     

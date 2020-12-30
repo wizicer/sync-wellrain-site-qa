@@ -19,11 +19,6 @@
   </url>
   
   <url>
-    <loc>/tags/advice/</loc>
-    <lastmod>2020-09-29T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2020-09-29T11:07:10+06:00</lastmod>
   </url>
@@ -34,17 +29,22 @@
   </url>
   
   <url>
-    <loc>/categories/company-news/</loc>
-    <lastmod>2020-09-29T11:07:10+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2020-09-29T11:07:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/technology/</loc>
+    <loc>/tags/%E4%BC%9A%E8%AE%AE/</loc>
+    <lastmod>2020-09-29T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/%E5%85%AC%E5%8F%B8%E6%96%B0%E9%97%BB/</loc>
+    <lastmod>2020-09-29T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E5%90%88%E4%BD%9C/</loc>
     <lastmod>2020-09-29T11:07:10+06:00</lastmod>
   </url>
   
@@ -64,6 +64,11 @@
   </url>
   
   <url>
+    <loc>/tags/advice/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/ai/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url>
@@ -80,6 +85,11 @@
   
   <url>
     <loc>/tags/company/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/company-news/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url>
   
