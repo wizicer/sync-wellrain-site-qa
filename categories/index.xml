@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 30 Oct 2020 11:07:10 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 11:07:10 +0600</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>公司新闻</title>
       <link>/categories/%E5%85%AC%E5%8F%B8%E6%96%B0%E9%97%BB/</link>
-      <pubDate>Fri, 30 Oct 2020 11:07:10 +0600</pubDate>
+      <pubDate>Mon, 30 Nov 2020 11:07:10 +0600</pubDate>
       
       <guid>/categories/%E5%85%AC%E5%8F%B8%E6%96%B0%E9%97%BB/</guid>
       <description></description>
@@ -36,15 +36,6 @@
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
       <guid>/categories/company-news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Legacy Support</title>
-      <link>/categories/legacy-support/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>/categories/legacy-support/</guid>
       <description></description>
     </item>
     
