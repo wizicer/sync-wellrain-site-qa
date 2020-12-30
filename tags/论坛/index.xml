@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>公司新闻 on Airspace | Creative Agency Hugo Template</title>
-    <link>/categories/%E5%85%AC%E5%8F%B8%E6%96%B0%E9%97%BB/</link>
-    <description>Recent content in 公司新闻 on Airspace | Creative Agency Hugo Template</description>
+    <title>论坛 on Airspace | Creative Agency Hugo Template</title>
+    <link>/tags/%E8%AE%BA%E5%9D%9B/</link>
+    <description>Recent content in 论坛 on Airspace | Creative Agency Hugo Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>Copyright &amp;copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
     <lastBuildDate>Fri, 30 Oct 2020 11:07:10 +0600</lastBuildDate>
     
-	<atom:link href="/categories/%E5%85%AC%E5%8F%B8%E6%96%B0%E9%97%BB/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/%E8%AE%BA%E5%9D%9B/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,16 +28,6 @@
 图 ｜西门子数字化工业集团华中区总监 任侠宁 《企业数字化转型实践分享》
 图 ｜ABB工业机器人工程有限公司 消费品事业部 肖传芳 《工业机器人应用解决方案》
 图 ｜ 默佩德卫软件技术服务（上海）有限公司 曹海勇 博士 《MES-智能工厂的基石》</description>
-    </item>
-    
-    <item>
-      <title>数字化精益｜浙江申康管业透明化车间的转型升级</title>
-      <link>/news/20200929%E6%95%B0%E5%AD%97%E5%8C%96%E7%B2%BE%E7%9B%8A%E6%B5%99%E6%B1%9F%E7%94%B3%E5%BA%B7%E7%AE%A1%E4%B8%9A%E9%80%8F%E6%98%8E%E5%8C%96%E8%BD%A6%E9%97%B4%E7%9A%84%E8%BD%AC%E5%9E%8B%E5%8D%87%E7%BA%A7/</link>
-      <pubDate>Tue, 29 Sep 2020 11:07:10 +0600</pubDate>
-      
-      <guid>/news/20200929%E6%95%B0%E5%AD%97%E5%8C%96%E7%B2%BE%E7%9B%8A%E6%B5%99%E6%B1%9F%E7%94%B3%E5%BA%B7%E7%AE%A1%E4%B8%9A%E9%80%8F%E6%98%8E%E5%8C%96%E8%BD%A6%E9%97%B4%E7%9A%84%E8%BD%AC%E5%9E%8B%E5%8D%87%E7%BA%A7/</guid>
-      <description>&lt;h3 id=&#34;客户背景-一家精益求精的塑料管材生产企业&#34;&gt;客户背景 一家精益求精的塑料管材生产企业&lt;/h3&gt;
-&lt;p&gt;浙江申康管业有限公司（以下简称“申康管业”）地处中国县域经济最为活跃的长三角南翼—桐乡濮院。是一家专业生产埋地用燃气管、给排水管、塑钢缠绕排水管、MPP改性聚丙烯电力电缆保护管、聚丙烯增强波纹（HFB）套管等产品的塑料管材生产企业。拥有国内外先进的生产设备三十余条及先进的注塑设备与完善的检测设备，对产品品控、生产工艺也有着极高的要求。申康管业公司多年来紧跟国家质量总局对燃气生产高质量发展标准的步伐，并且凭借自身研发和技术优势在行业拥有良好的口碑。&lt;/p&gt;</description>
     </item>
     
   </channel>
