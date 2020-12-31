@@ -99,10 +99,6 @@
   </url>
   
   <url>
-    <loc>/product/rio-furniture-1/</loc>
-  </url>
-  
-  <url>
     <loc>/product/rio-furniture-3/</loc>
   </url>
   
@@ -128,6 +124,10 @@
   
   <url>
     <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/product/rio-furniture-1/</loc>
   </url>
   
   <url>
