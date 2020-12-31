@@ -26,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/expection/</guid>
-      <description>&lt;h3 id=&#34;数字化智慧工厂服务专家&#34;&gt;数字化智慧工厂服务专家。&lt;/h3&gt;</description>
+      <description>&lt;h2 id=&#34;数字化智慧工厂服务专家&#34;&gt;数字化智慧工厂服务专家。&lt;/h2&gt;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/honor/</guid>
-      <description>&lt;p&gt;商标、专利和软件著作权。&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;商标专利和软件著作权&#34;&gt;商标、专利和软件著作权。&lt;/h2&gt;</description>
     </item>
     
   </channel>
