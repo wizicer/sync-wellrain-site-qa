@@ -13,15 +13,6 @@
     
     <item>
       <title>Rio Furniture</title>
-      <link>/product/rio-furniture-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/product/rio-furniture-4/</guid>
-      <description>Behance Website Redesign Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.</description>
-    </item>
-    
-    <item>
-      <title>Rio Furniture</title>
       <link>/product/rio-furniture-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -45,6 +36,15 @@
       
       <guid>/product/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E4%B8%80/</guid>
       <description>应用场景一 </description>
+    </item>
+    
+    <item>
+      <title>应用场景二</title>
+      <link>/product/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E4%BA%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/product/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E4%BA%8C/</guid>
+      <description>应用场景二 </description>
     </item>
     
     <item>
