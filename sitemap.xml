@@ -99,14 +99,6 @@
   </url>
   
   <url>
-    <loc>/product/rio-furniture-5/</loc>
-  </url>
-  
-  <url>
-    <loc>/product/rio-furniture-6/</loc>
-  </url>
-  
-  <url>
     <loc>/download/</loc>
   </url>
   
@@ -131,6 +123,10 @@
   </url>
   
   <url>
+    <loc>/product/%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B%E4%BA%8C/</loc>
+  </url>
+  
+  <url>
     <loc>/product/</loc>
   </url>
   
@@ -140,6 +136,10 @@
   
   <url>
     <loc>/product/%E8%94%9A%E9%94%90unet%E5%8F%AF%E8%A7%86%E5%8C%96%E7%94%9F%E4%BA%A7%E8%BF%BD%E6%BA%AF%E7%B3%BB%E7%BB%9F/</loc>
+  </url>
+  
+  <url>
+    <loc>/product/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E4%B8%80/</loc>
   </url>
   
 </urlset>
