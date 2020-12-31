@@ -167,6 +167,7 @@
       <div class="col-md-6 col-md-offset-6">
         <h2 class="section-subtitle">UENT可视化生产追溯系统&rdquo;</h2>
         采集产线设备实时数据，并实现工厂内部数据的纵向交互应用与双向传输，为ERP/MES/OA系统提供可靠实时数据。采集生产过程及产品的关键数据，实现供应链数据的横向交互应用。 <br/> <br/> 标准化的挤出生产线设备数据采集方案，集成不同设备的通讯接口，兼容性强，实现了对众多品牌和型号设备的采集。数据采集简单易操作，输出采用标准数据通讯协议（OPC/Modbus TCP），能够与第三方软件平台实现交互。
+        <br />
         <a href="/product/" class="btn btn-view-works">了解更多</a>
       </div>
     </div>
@@ -223,46 +224,6 @@
 <script src="/js/script.min.js"></script>
 
 
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
-<div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-main btn-solid-border">I Accept</span>
-</div>
-<script>
-	(function ($) {
-		const cookieBox = document.getElementById('js-cookie-box');
-		const cookieButton = document.getElementById('js-cookie-button');
-		if (!Cookies.get('cookie-box')) {
-			cookieBox.classList.remove('cookie-box-hide');
-			cookieButton.onclick = function () {
-				Cookies.set('cookie-box', true, {
-					expires:  2 
-				});
-				cookieBox.classList.add('cookie-box-hide');
-			};
-		}
-	})(jQuery);
-</script>
-
-
-<style>
-.cookie-box {
-  position: fixed;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  text-align: center;
-  z-index: 9999;
-  padding: 1rem 2rem;
-  background: rgb(71, 71, 71);
-  transition: all .75s cubic-bezier(.19, 1, .22, 1);
-  color: #fdfdfd;
-}
-
-.cookie-box-hide {
-  display: none;
-}
-</style>
 </body>
 
 </html>
