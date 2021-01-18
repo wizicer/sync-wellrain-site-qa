@@ -111,15 +111,7 @@
   </url>
   
   <url>
-    <loc>/product/%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E4%BA%8C/</loc>
-  </url>
-  
-  <url>
     <loc>/product/%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B%E4%B8%80/</loc>
-  </url>
-  
-  <url>
-    <loc>/product/%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B%E4%BA%8C/</loc>
   </url>
   
   <url>
@@ -136,10 +128,6 @@
   
   <url>
     <loc>/download/</loc>
-  </url>
-  
-  <url>
-    <loc>/product/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E4%B8%80/</loc>
   </url>
   
 </urlset>
