@@ -151,6 +151,19 @@
 <p>上进  <strong>I</strong>mpetuous</p>
 <p>拼搏  <strong>P</strong>ush</p>
 <p>创新  <strong>I</strong>nnovation</p>
+<script>
+    var obj = document.getElementsByName("content");
+    obj[0].style.display = 'block';
+    obj[1].style.display = 'none';
+    company.onclick = function(){
+        obj[0].style.display = 'block';
+        obj[1].style.display = 'none';
+    }
+    honor.onclick = function(){
+        obj[0].style.display = 'none';
+        obj[1].style.display = 'block';
+    }
+</script>
       </div>
     </div>
   </div>
