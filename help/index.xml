@@ -6,7 +6,6 @@
     <description>Recent content in 下载与帮助 on 蔚锐信息科技（上海）有限公司</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>备 案 号：[沪ICP备14002186号-1](https://beian.miit.gov.cn/)</copyright>
     
 	<atom:link href="/help/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,15 +16,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/help/old/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>报价器</title>
-      <link>/help/pricing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/help/pricing/</guid>
       <description></description>
     </item>
     
