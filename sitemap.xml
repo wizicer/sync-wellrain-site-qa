@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/demo/qr/</loc>
+  </url>
+  
+  <url>
     <loc>/about/company/</loc>
   </url>
   
   <url>
     <loc>/example/one/</loc>
-  </url>
-  
-  <url>
-    <loc>/demo/qr/</loc>
   </url>
   
   <url>
