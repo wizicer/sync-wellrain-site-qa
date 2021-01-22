@@ -7,11 +7,11 @@
   </url>
   
   <url>
-    <loc>/help/old/</loc>
+    <loc>/demo/qr/</loc>
   </url>
   
   <url>
-    <loc>/help/download/</loc>
+    <loc>/demo/download/</loc>
   </url>
   
   <url>
@@ -94,7 +94,7 @@
   </url>
   
   <url>
-    <loc>/old/</loc>
+    <loc>/qr/</loc>
     <lastmod>2020-03-23T13:05:29+06:00</lastmod>
   </url>
   
@@ -133,7 +133,7 @@
   </url>
   
   <url>
-    <loc>/help/</loc>
+    <loc>/demo/</loc>
   </url>
   
   <url>
@@ -145,15 +145,15 @@
   </url>
   
   <url>
-    <loc>/product/</loc>
-  </url>
-  
-  <url>
     <loc>/product/%E6%89%93%E9%80%A0%E6%95%B0%E5%AD%97%E7%AE%A1%E7%90%86%E9%80%8F%E6%98%8E%E5%8C%96%E5%B7%A5%E5%8E%82/</loc>
   </url>
   
   <url>
     <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/product/</loc>
   </url>
   
   <url>
