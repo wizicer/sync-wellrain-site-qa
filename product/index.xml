@@ -20,16 +20,6 @@
     </item>
     
     <item>
-      <title>一码追溯</title>
-      <link>/product/%E4%B8%80%E7%A0%81%E8%BF%BD%E6%BA%AF/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/product/%E4%B8%80%E7%A0%81%E8%BF%BD%E6%BA%AF/</guid>
-      <description>一码追溯 从原料、生产、质检等各方面，实现全流程产品周期的数字化质量追溯及管理。有效降低做产品追溯时需要大量翻阅纸质资料的所投入的人力成本和沟通时间。
- IOT数据与产品的追溯结合； 业务运营的追溯结合； 国家工业互联网标识节点认证背书； 以成品批次为单位的数字身份码。  客户管理 表结构管理 页面配置 实例管理 </description>
-    </item>
-    
-    <item>
       <title>可视化看板</title>
       <link>/product/%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9C%8B%E6%9D%BF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -40,24 +30,23 @@
     </item>
     
     <item>
-      <title>成功案例</title>
-      <link>/product/%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B/</link>
+      <title>轻量级MES</title>
+      <link>/product/%E8%BD%BB%E9%87%8F%E7%BA%A7mes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/product/%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B/</guid>
-      <description>蔚锐成功案例 目前，我们已实现累计部署超过200条挤出生产线；
-项目实施中通讯物联的设备超过1000套；
-这些生产线所生产的产品已经实现了基于批次的从原料、设备、工艺参数、质检数据、操作人员的完整追溯。
-部分合作客户：</description>
+      <guid>/product/%E8%BD%BB%E9%87%8F%E7%BA%A7mes/</guid>
+      <description>轻量级MES 通过SAAS云端部署实现轻量化MES生产协同系统，相比较传统的业MES软件，该轻量MES系统具备快速上线、灵活配置、操作简易的特点，可实现⼚内以及厂间全面的数字化制造协同管理。
+智能排期  云计算推荐排程方案，智能优化生产管理； 柔性规划生产； 实时掌握生产进度； 精确到任务，实时更新订单计划情况和生产进度，生产数据可视化； 全盘掌握生产信息，辅助柔性排期。  生产管理  可视化计划排程，实时掌握生产进度和异常； 移动端扫码领取任务，完成实时报工； 支持现场数据看板和远程监控，质量管理。  质量管理  自定义多类型质检方案，实时了解现场质检结果 支持走动式质检，结果随时拍照上传；质检报告扫码绑定生产批次 远程监控生产质量，快速追溯质量源头。  物料管理  实时查看制品库存，出入库记录明细； 扫码追溯生产履历和用料批次，锁定问题源头改进制造过程； 实时展示库存波动和库存水位，提升库存利用率和周转效率。  </description>
     </item>
     
     <item>
-      <title>手机APP</title>
-      <link>/product/%E6%89%8B%E6%9C%BAapp/</link>
+      <title>一码追溯</title>
+      <link>/product/%E4%B8%80%E7%A0%81%E8%BF%BD%E6%BA%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/product/%E6%89%8B%E6%9C%BAapp/</guid>
-      <description>手机APP 手机APP管理界面 </description>
+      <guid>/product/%E4%B8%80%E7%A0%81%E8%BF%BD%E6%BA%AF/</guid>
+      <description>一码追溯 从原料、生产、质检等各方面，实现全流程产品周期的数字化质量追溯及管理。有效降低做产品追溯时需要大量翻阅纸质资料的所投入的人力成本和沟通时间。
+ IOT数据与产品的追溯结合； 业务运营的追溯结合； 国家工业互联网标识节点认证背书； 以成品批次为单位的数字身份码。  客户管理 表结构管理 页面配置 实例管理 </description>
     </item>
     
     <item>
@@ -70,13 +59,24 @@
     </item>
     
     <item>
-      <title>轻量级MES</title>
-      <link>/product/%E8%BD%BB%E9%87%8F%E7%BA%A7mes/</link>
+      <title>手机APP</title>
+      <link>/product/%E6%89%8B%E6%9C%BAapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/product/%E8%BD%BB%E9%87%8F%E7%BA%A7mes/</guid>
-      <description>轻量级MES 通过SAAS云端部署实现轻量化MES生产协同系统，相比较传统的业MES软件，该轻量MES系统具备快速上线、灵活配置、操作简易的特点，可实现⼚内以及厂间之间全面的数字化制造协同管理。
-智能排期  云计算推荐排程方案，智能优化生产管理； 柔性规划生产； 实时掌握生产进度； 精确到任务，实时更新订单计划情况和生产进度，生产数据可视化； 全盘掌握生产信息，辅助柔性排期。  生产管理  可视化计划排程，实时掌握生产进度和异常； 移动端扫码领取任务，完成实时报工； 支持现场数据看板和远程监控，质量管理。  质量管理  自定义多类型质检方案，实时了解现场质检结果 支持走动式质检，结果随时拍照上传；质检报告扫码绑定生产批次 远程监控生产质量，快速追溯质量源头。  物料管理  实时查看制品库存，出入库记录明细； 扫码追溯生产履历和用料批次，锁定问题源头改进制造过程； 实时展示库存波动和库存水位，提升库存利用率和周转效率。  </description>
+      <guid>/product/%E6%89%8B%E6%9C%BAapp/</guid>
+      <description>手机APP 手机APP管理界面 </description>
+    </item>
+    
+    <item>
+      <title>成功案例</title>
+      <link>/product/%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/product/%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B/</guid>
+      <description>蔚锐成功案例 目前，我们已实现累计部署超过200条挤出生产线；
+项目实施中通讯物联的设备超过1000套；
+这些生产线所生产的产品已经实现了基于批次的从原料、设备、工艺参数、质检数据、操作人员的完整追溯。
+部分合作客户：</description>
     </item>
     
   </channel>

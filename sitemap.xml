@@ -19,15 +19,11 @@
   </url>
   
   <url>
-    <loc>/product/%E4%B8%80%E7%A0%81%E8%BF%BD%E6%BA%AF/</loc>
+    <loc>/product/%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9C%8B%E6%9D%BF/</loc>
   </url>
   
   <url>
     <loc>/example/one/</loc>
-  </url>
-  
-  <url>
-    <loc>/product/%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9C%8B%E6%9D%BF/</loc>
   </url>
   
   <url>
@@ -39,7 +35,11 @@
   </url>
   
   <url>
-    <loc>/product/%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B/</loc>
+    <loc>/product/%E8%BD%BB%E9%87%8F%E7%BA%A7mes/</loc>
+  </url>
+  
+  <url>
+    <loc>/product/%E4%B8%80%E7%A0%81%E8%BF%BD%E6%BA%AF/</loc>
   </url>
   
   <url>
@@ -47,15 +47,15 @@
   </url>
   
   <url>
-    <loc>/product/%E6%89%8B%E6%9C%BAapp/</loc>
-  </url>
-  
-  <url>
     <loc>/product/%E7%A1%AC%E4%BB%B6%E5%B1%95%E7%A4%BA/</loc>
   </url>
   
   <url>
-    <loc>/product/%E8%BD%BB%E9%87%8F%E7%BA%A7mes/</loc>
+    <loc>/product/%E6%89%8B%E6%9C%BAapp/</loc>
+  </url>
+  
+  <url>
+    <loc>/product/%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B/</loc>
   </url>
   
   <url>
