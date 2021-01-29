@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>/product/unet%E5%8F%AF%E8%A7%86%E5%8C%96%E7%94%9F%E4%BA%A7%E8%BF%BD%E6%BA%AF%E7%B3%BB%E7%BB%9F/</loc>
+  </url>
+  
+  <url>
     <loc>/about/company/</loc>
   </url>
   
@@ -15,7 +19,15 @@
   </url>
   
   <url>
+    <loc>/product/%E4%B8%80%E7%A0%81%E8%BF%BD%E6%BA%AF/</loc>
+  </url>
+  
+  <url>
     <loc>/example/one/</loc>
+  </url>
+  
+  <url>
+    <loc>/product/%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9C%8B%E6%9D%BF/</loc>
   </url>
   
   <url>
@@ -27,7 +39,23 @@
   </url>
   
   <url>
+    <loc>/product/%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B/</loc>
+  </url>
+  
+  <url>
     <loc>/about/honor/</loc>
+  </url>
+  
+  <url>
+    <loc>/product/%E6%89%8B%E6%9C%BAapp/</loc>
+  </url>
+  
+  <url>
+    <loc>/product/%E7%A1%AC%E4%BB%B6%E5%B1%95%E7%A4%BA/</loc>
+  </url>
+  
+  <url>
+    <loc>/product/%E8%BD%BB%E9%87%8F%E7%BA%A7mes/</loc>
   </url>
   
   <url>
@@ -145,39 +173,11 @@
   </url>
   
   <url>
-    <loc>/product/%E4%B8%80%E7%A0%81%E8%BF%BD%E6%BA%AF/</loc>
-  </url>
-  
-  <url>
-    <loc>/product/unet%E5%8F%AF%E8%A7%86%E5%8C%96%E7%94%9F%E4%BA%A7%E8%BF%BD%E6%BA%AF%E7%B3%BB%E7%BB%9F/</loc>
-  </url>
-  
-  <url>
     <loc>/demo/</loc>
   </url>
   
   <url>
     <loc>/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/product/%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9C%8B%E6%9D%BF/</loc>
-  </url>
-  
-  <url>
-    <loc>/product/%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B/</loc>
-  </url>
-  
-  <url>
-    <loc>/product/%E6%89%8B%E6%9C%BAapp/</loc>
-  </url>
-  
-  <url>
-    <loc>/product/%E6%89%93%E9%80%A0%E6%95%B0%E5%AD%97%E7%AE%A1%E7%90%86%E9%80%8F%E6%98%8E%E5%8C%96%E5%B7%A5%E5%8E%82/</loc>
-  </url>
-  
-  <url>
-    <loc>/product/%E7%A1%AC%E4%BB%B6%E5%B1%95%E7%A4%BA/</loc>
   </url>
   
   <url>
@@ -190,10 +190,6 @@
   
   <url>
     <loc>/download/</loc>
-  </url>
-  
-  <url>
-    <loc>/product/%E8%BD%BB%E9%87%8F%E7%BA%A7mes/</loc>
   </url>
   
 </urlset>
